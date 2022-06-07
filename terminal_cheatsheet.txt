@@ -1,0 +1,20 @@
+mkdir = nake directory (folder)
+pwd = tells you the current file path 
+cd (+ name of folder) = navigates to folder stated
+cd .. = moves you to the previous folder 
+touch = creates a file
+ls = lists all folders 
+code . = allows you to open a file in visual studio code. Code is the shortcut name for VS Code so this can be replaced with the name of whatever IDE being used.
+Clear = removes all info from display to tidy view. 
+q = quit
+ls -a = repository i.e. pool of code 
+
+
+GIT -
+git init = initialise git. Then shows git:(main)
+git status = when git notices something and an x appears, this command asks what it has noticed. 
+stage = git add <file name> - adds i.e. stages one file. OR git add . = adds/stages all files in current directory. Stages gets files ready to be committed. 
+commit = git commit -m "message to future me to describe content" e.g "intial commit - add pokemon"
+git log = checks who is author and logs of commits 
+push = saving to github. You would immediately push as third part of process i.e. stage, commit, push. Create repository on github then copy paste link from github into command line. Once pasted repository location, you can then push going forward with the command 'git push' only.  
+
